@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+/*Ruben Bernal Ramos*/
+
+    body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        text-align: centre;
+    }
+
+    h1 {
+        color: #333;
+    }
+
+    img {
+       margin-top: 20px;
+       width: 20%;
+       height: 20%;       
+    }
+    img:hover{
+		width: 40%;
+		height: 40%;
+	}
+
+    ul {
+       
+        padding: 0;
+    }
+
+    li {
+        margin: 10px ;
+    }
+
+   p{
+   		height: 10%;
+   }
